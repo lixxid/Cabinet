@@ -1,0 +1,2 @@
+class DOcController < ApplicationController
+end
